@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[data-slot="main-wrapper"] {
+  width: 100%;
+}
+
+.wallet-adapter-button-trigger {
+  background-color: #512da8 !important
+}
